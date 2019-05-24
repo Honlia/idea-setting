@@ -4,7 +4,7 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="tryc" value="try{&#10;    $END$&#10;}catch(Exception e){&#10;}" toReformat="false" toShortenFQNames="true">
+  <template name="tryc" value="try{&#10;    $END$&#10;}catch(Exception e){&#10;}" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="COMPLETION" value="true" />
       <option name="JAVA_COMMENT" value="true" />
